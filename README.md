@@ -74,3 +74,10 @@ Software Engineering Student
 
 Contributions, suggestions, and forks are welcome!  
 Feel free to open issues or submit pull requests.
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it with attribution.
