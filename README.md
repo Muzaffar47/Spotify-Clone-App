@@ -15,7 +15,7 @@ A desktop-based **Spotify Clone** built using **Java** and **Swing**, designed t
 - 📃 View song title, artist name, and duration  
 - ⏯️ Play/Pause functionality  
 - ⏭️ Next/Previous song control  
-- 🔁 Loop & Shuffle *(if implemented)*  
+- 🔁 Loop & Shuffle 
 - 🎚️ Volume slider  
 - 🎨 User-friendly interface using Java Swing  
 
@@ -23,17 +23,15 @@ A desktop-based **Spotify Clone** built using **Java** and **Swing**, designed t
 
 ## 📁 Project Structure
 
-screen1/ # Main project folder
-├── src/ # Java source files
-│ └── main/ # Main app logic
-├── assets/ # Song files, images, icons
-├── README.md # This file
-├── .gitignore # Git ignore rules
-└── ... # Other project files
-
-yaml
-Copy
-Edit
+```
+screen1/               # Main project folder
+├── src/               # Java source files
+│   └── main/          # Main app logic
+├── assets/            # Song files, images, icons
+├── README.md          # This file
+├── .gitignore         # Git ignore rules
+└── ...                # Other project files
+```
 
 ---
 
@@ -50,17 +48,29 @@ Edit
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:Muzaffar47/Spotify_Clone_Java.git
-cd Spotify_Clone_Java
-2. Open in Your IDE
-Use NetBeans, IntelliJ IDEA, or Eclipse
+git clone https://github.com/Muzaffar47/Spotify-Clone-Java.git
+cd Spotify-Clone-Java
+```
 
-Build and run Main.java
+### 2. Open in Your IDE
 
-👨‍💻 Author
-Muzaffar Javed
-Software Engineering Student
-🔗 https://github.com/Muzaffar47
+Open the project using NetBeans, IntelliJ IDEA, or Eclipse.  
+Locate and run the `Main.java` file.
 
-🤝 Contributions
-Contributions, suggestions, and forks are welcome! Feel free to open issues or submit pull requests.
+🎵 Ensure MP3 files and assets are correctly placed inside the `assets/` directory.
+
+---
+
+## 👨‍💻 Author
+
+**Muzaffar Javed**  
+Software Engineering Student  
+📍 COMSATS University, Sahiwal  
+🔗 [GitHub Profile](https://github.com/Muzaffar47)
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and forks are welcome!  
+Feel free to open issues or submit pull requests.
